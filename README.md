@@ -14,6 +14,10 @@ Arquivo Event - Z  do Txt:
 
 ```
 
+## Passos do Projeto 
+
+Você ira encontrar nos arquivos do Python pelo Github
+
 ## Tecnologias Utilizadas  
 
 ** O projeto foi desenvolvido com as seguintes tecnologia ** 
